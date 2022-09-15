@@ -1,6 +1,6 @@
-## Hi! I'm Pablo Damasceno, a 21 years old student of web dev
+## Hi! I'm Pablo Damasceno, a 21 years old web developer
 
-- 👨‍💻 Full Stack Web Development Student at Driven Education
+- 👨‍💻 Full Stack Web Development
 - 🌱 actually studying DevOps
 - 😄 Pronouns: He/Him
 
