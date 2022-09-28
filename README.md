@@ -1,7 +1,7 @@
 ## Hi! I'm Pablo Damasceno, a 21 years old web developer
 
 - 👨‍💻 Full Stack Web Development
-- 🌱 actually studying DevOps
+- 🌱 actually studying React Native
 - 😄 Pronouns: He/Him
 
 <div align="center" >
