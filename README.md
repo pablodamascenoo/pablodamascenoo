@@ -1,7 +1,7 @@
-## Hi! I'm Pablo Damasceno, a 21 years old web developer
+## Hi! I'm Pablo Damasceno, a 22 years old web developer
 
 - 👨‍💻 Full Stack Web Development
-- 🌱 actually studying C# and .Net
+- 🌱 actually loving Next.js and Tailwindcss
 - 😄 Pronouns: He/Him
 
 <div align="center" >
